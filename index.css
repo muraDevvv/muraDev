@@ -1,0 +1,61 @@
+@import url(./Vendor/normalize.css);
+@import url(./blocks/header/header.css);
+@import url(./blocks/popup-form/popup-form.css);
+@import url(./blocks/block1/block1.css);
+@import url(./blocks/block2/block2.css);
+@import url(./blocks/block3/block3.css);
+@import url(./blocks/block4/block4.css);
+@import url(./blocks/block5/block5.css);
+@import url(./blocks/block6/block6.css);
+@import url(./blocks/block7/block7.css);
+@import url(./blocks/footer/footer.css);
+
+.body {
+  max-width: 1440px;
+  min-width: 320px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  padding: 0;
+  background-color: #000;
+  background-image: url(./images/bg-image.png);
+  background-repeat: repeat-y;
+  background-size: cover;
+  overflow-x: hidden;
+}
+
+h1 {
+  text-wrap: balance;
+}
+
+h2 {
+  text-wrap: balance;
+}
+
+h3 {
+  text-wrap: balance;
+}
+
+h4 {
+  text-wrap: balance;
+}
+
+h5 {
+  text-wrap: balance;
+}
+
+h6 {
+  text-wrap: balance;
+}
+
+p {
+  text-wrap: balance;
+}
+
+button:hover {
+  opacity: 60%;
+}
+
+a:hover {
+  opacity: 60%;
+}
